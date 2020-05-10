@@ -1,0 +1,4 @@
+<launch>
+  <node name="publisher" pkg="fiz_topic" type="topic_publisher.py" output="screen"/>
+  <node name="subscriber" pkg="fiz_topic" type="topic_subscriber.py" output="screen"/>
+</launch>

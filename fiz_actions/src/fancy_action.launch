@@ -1,0 +1,4 @@
+<launch>
+  <node name="server" pkg="fiz_actions" type="fancy_action_server.py" output="screen"/>
+  <node name="client" pkg="fiz_actions" type="fancy_action_client.py" output="screen"/>
+</launch>

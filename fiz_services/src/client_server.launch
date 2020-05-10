@@ -1,0 +1,4 @@
+<launch>
+  <node name="client" pkg="fiz_services" type="service_client.py" output="screen"/>
+  <node name="server" pkg="fiz_services" type="service_server.py" output="screen"/>
+</launch>
