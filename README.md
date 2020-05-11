@@ -4,7 +4,7 @@ i lvoe :tennis:.
 packages are named after my dog fiz. 
 
 Three packages are:
-fiz_topic
-fiz_services
-fiz_actions
+## fiz_topic
+## fiz_services
+## fiz_actions
 
