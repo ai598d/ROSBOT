@@ -11,7 +11,7 @@ $ roslaunch fiz_topic Publisher_subscriber.launch\ to fire up this package direc
 This package will perform basic integer count.
 
 ###### How to run
-   - clone to the ros workspace source directory
+   - clone to the ros workspace to source directory
    - use $catkin_make command to build the catkin.
    - source the directory with $ source devel/setup.bash
 
@@ -29,7 +29,7 @@ This is a basic package consists of two nodes (server and client). use command
 $ roslaunch fiz_topic Publisher_subscriber.launch to fire up this package.
 
 ###### How to run
-   - clone to the ros workspace source directory
+   - clone to the ros workspace to source directory
    - use $catkin_make command to build the catkin.
    - source the directory with $ source devel/setup.bash
 
@@ -43,7 +43,7 @@ This is a basic package consists of two nodes (server and client). use command
 $ roslaunch fiz_topic fancy_action.launch\ to fire up this package directly from ubuntu terminal.
 
 ###### How to run
-   - clone to the ros workspace source directory
+   - clone to the ros workspace to source directory
    - use $catkin_make command to build the catkin.
    - source the directory with $ source devel/setup.bash
    
