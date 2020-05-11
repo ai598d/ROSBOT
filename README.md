@@ -6,7 +6,7 @@
 
 ## fiz_topic
 ###### Overview 
-This is a basic package consists of two nodes (publsiher and sibscriber). use command  <roslaunch fiz_topic Publisher_subscriber.launch> to fire up this package.      
+This is a basic package consists of two nodes (publsiher and sibscriber). use command  $ roslaunch fiz_topic Publisher_subscriber.launch to fire up this package.      
 
 ###### list of source files
    - Publisher_subscriber.launch ( run with roslaunch command. The package will generate integer count )
