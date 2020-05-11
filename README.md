@@ -1,7 +1,7 @@
-# ROSBOT: Included Packages for ROS, I have created for ROBOTICS class 
-i lvoe :tennis:.
+# ROSBOT: Included Packages for ROS which were created for ROBOTICS class 
 
-packages are named after my dog fiz. 
+
+Packages are named after my dog fiz. 
 
 Three packages are:
 ## fiz_topic
