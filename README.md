@@ -27,6 +27,15 @@ $ roslaunch fiz_topic Publisher_subscriber.launch to fire up this package.
    - service_server.py (server node)
    - service_client.py (client node) 
 ## fiz_actions
+###### Overview 
+This is a basic package consists of two nodes (publsiher and sibscriber). use command  
+$ roslaunch fiz_topic Publisher_subscriber.launch\ to fire up this package directly from ubuntu terminal.
+###### actions
+   - Timer.action
+     
+     contains timer action input output and feedback message.  
+  
+###### list of src files
    - fancy_action.launch (package launch file. Performs feedback action)
    - fancy_action_client.py (client node)
    - fancy_action_server.py (server node)
