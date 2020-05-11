@@ -15,7 +15,7 @@ $ roslaunch fiz_topic Publisher_subscriber.launch\ to fire up this package direc
    - topic_subcriber.py (subscriber node)
    
    both nodes are written in python environment. 
-   $ roscd name_package file\ command can be used to explore different files directly from ubuntu terminal. 
+   $ roscd name_package file_name\ command can be used to explore different files directly from ubuntu terminal. 
 
 ## fiz_services
 ###### Overview 
