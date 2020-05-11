@@ -6,14 +6,14 @@
 
 ## fiz_topic
 ###### Overview 
-This is a basic package consists of two nodes (publsiher and sibscriber). use command  
-$ roslaunch fiz_topic Publisher_subscriber.launch\ to fire up this package directly from ubuntu terminal.
+This is a basic package consists of two nodes (publsiher and sibscriber). 
 This package will perform basic integer count.
 
 ###### How to run
-   - clone to the ros workspace to source directory
+   - clone to the ros workspace to source directory.
    - use $catkin_make command to build the catkin.
-   - source the directory with $ source devel/setup.bash
+   - source the directory with $ source devel/setup.bash.
+   - use $ roslaunch fiz_topic Publisher_subscriber.launch\ from ubuntu terminal.
 
 ###### list of src files
    - Publisher_subscriber.launch ( run with roslaunch command. The package will generate integer count )
@@ -29,9 +29,10 @@ This is a basic package consists of two nodes (server and client). use command
 $ roslaunch fiz_topic Publisher_subscriber.launch to fire up this package.
 
 ###### How to run
-   - clone to the ros workspace to source directory
+   - clone to the ros workspace to source directory.
    - use $catkin_make command to build the catkin.
-   - source the directory with $ source devel/setup.bash
+   - source the directory with $ source devel/setup.bash.
+   - use $ roslaunch fiz_topic Publisher_subscriber.launch\ from ubuntu terminal.
 
 ###### list of src files
    - client_server.launch (returns word count of an input sentence. WordCount.srv can be found in srv folder)
@@ -43,9 +44,10 @@ This is a basic package consists of two nodes (server and client). use command
 $ roslaunch fiz_topic fancy_action.launch\ to fire up this package directly from ubuntu terminal.
 
 ###### How to run
-   - clone to the ros workspace to source directory
+   - clone to the ros workspace to source directory.
    - use $catkin_make command to build the catkin.
-   - source the directory with $ source devel/setup.bash
+   - source the directory with $ source devel/setup.bash.
+   - use $ roslaunch fiz_topic Publisher_subscriber.launch\ from ubuntu terminal.
    
 ###### actions
    - Timer.action
