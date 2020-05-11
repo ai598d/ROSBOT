@@ -1,10 +1,10 @@
-# ROSBOT: Included 3 ROS Packages which were created for ME 477 class. 
+# ROSBOT: Includes 3 ROS Packages for ME 477 class. 
 
-######  Packages are named after my dog fiz ::dog::. 
+######  Packages are named after my dog fiz :dog:. 
 
-## Breif description packages are:
-######  fiz_topic
-   - Publisher_subscriber.launch
+## Breif description of each packages are given below.
+######  fiz_topic (src file list).
+   - Publisher_subscriber.launch ( run this file with roslaunch command to fire up this node. the node will generate integer count )
    - topic_publisher.py
    - topic_subcriber.py
 ######  fiz_services
